@@ -14,3 +14,4 @@ build/            ← Gradle builds output here
 # OS junk files (created automatically by Windows/macOS)
 .DS_Store         ← macOS hidden file
 Thumbs.db         ← Windows hidden image cache file
+/bin/
