@@ -1,13 +1,13 @@
 
-# Eclipse-specific files (do not track these)
+# Eclipse-specific files
 .classpath        ← Eclipse project metadata
 .project          ← Eclipse project metadata
 .settings/        ← Folder with Eclipse preferences
 
-# Java build outputs (you don't want compiled files on GitHub)
+# Java build outputs
 bin/              ← Compiled `.class` files usually go here
 
-# Maven or Gradle build directories (if you're using them)
+# Maven or Gradle build directories
 target/           ← Maven builds output here
 build/            ← Gradle builds output here
 
