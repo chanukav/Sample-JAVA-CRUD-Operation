@@ -14,7 +14,7 @@ A simple Java web application for performing CRUD operations, built using Eclips
 - Apache Tomcat
 
 ## How to Run
-1. Import into Eclipse
+1. Import and copy the files imto you project
 2. Configure Tomcat server
 3. Update DB connection in `DBUtil.java`
 4. Run on localhost
