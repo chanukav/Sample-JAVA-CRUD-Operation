@@ -1,0 +1,16 @@
+
+# Eclipse-specific files (do not track these)
+.classpath        ← Eclipse project metadata
+.project          ← Eclipse project metadata
+.settings/        ← Folder with Eclipse preferences
+
+# Java build outputs (you don't want compiled files on GitHub)
+bin/              ← Compiled `.class` files usually go here
+
+# Maven or Gradle build directories (if you're using them)
+target/           ← Maven builds output here
+build/            ← Gradle builds output here
+
+# OS junk files (created automatically by Windows/macOS)
+.DS_Store         ← macOS hidden file
+Thumbs.db         ← Windows hidden image cache file

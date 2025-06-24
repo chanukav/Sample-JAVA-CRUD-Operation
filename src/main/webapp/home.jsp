@@ -13,7 +13,7 @@
 <a href="login.jsp"><button type="button" class="btn btn-secondary">Login</button></a>
 <a href="register.jsp"><button type="button" class="btn btn-secondary">Register</button></a>
 
-<form action="adminCustomers" method="post">
+	<form action="adminCustomers" method="post">
 
 	<button type="submit"> All Customers</button>
 	
